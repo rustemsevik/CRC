@@ -17,3 +17,6 @@ cd CRC
 make
 ```
 
+## Documentation
+
+The full documentation is available [here](https://rustemsevik.github.io/CRC/).
